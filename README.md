@@ -33,7 +33,7 @@
 下载资源包：https://github.com/admin8800/xiaomi/releases/tag/mi8g3-unlocker
 
 1.  **准备阶段：** 手机端开启“开发者选项” -> **USB 调试** 与 **OEM 解锁**，退出小米账号与谷歌账号，并确认已关闭设备查找
-2.  **启动脚本：** 在 Windows 电脑解压本工具包，双击运行目录下的 `8g3-unlock.bat'
+2.  **启动脚本：** 在 Windows 电脑解压本工具包，双击运行目录下的 `8g3-unlock.bat`
 ---
 
 ### ⚠️ 注意事项与免责声明
