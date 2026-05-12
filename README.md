@@ -1,9 +1,9 @@
-# Mi8G3-Unlocker 全自动版
+# xiaomi-8G3
 <details>
   <summary>点击展开/收起</summary>
   
 ​本项目是专为搭载骁龙 8g3（Snapdragon 8 Gen3）平台的小米设备打造的 Windows 一键 BL 解锁辅助工具。通过 8g3-unlock.bat 脚本，实现 HyperOS 2026.02.01之前补丁系统下的自动化解锁流程
----
+
 
 ### 📱 已适配支持机型
 
@@ -30,8 +30,10 @@
 
 ### 🛠️ 使用步骤
 
+下载资源包：https://github.com/admin8800/xiaomi/releases/tag/mi8g3-unlocker
+
 1.  **准备阶段：** 手机端开启“开发者选项” -> **USB 调试** 与 **OEM 解锁**，退出小米账号与谷歌账号，并确认已关闭设备查找
-2.  **启动脚本：** 在 Windows 电脑解压本工具包，双击运行目录下的 `8e-unlock.bat'
+2.  **启动脚本：** 在 Windows 电脑解压本工具包，双击运行目录下的 `8g3-unlock.bat'
 ---
 
 ### ⚠️ 注意事项与免责声明
@@ -48,13 +50,13 @@
 ---
 ---
 
-# Mi8E-Unlocker 全自动版
+# xiaomi-8E
 
 <details>
 <summary>点击展开/收起</summary>
 
 本项目是专为搭载骁龙 8 至尊版（Snapdragon 8 Elite）平台的小米设备打造的 Windows 一键 BL 解锁辅助工具。通过 8e-unlock.bat 脚本，实现 HyperOS 2026.02.01之前补丁系统下的自动化解锁流程
----
+
 
 ### 📱 已适配支持机型
 
@@ -82,6 +84,8 @@
 ---
 
 ### 🛠️ 使用步骤
+
+下载资源包：https://github.com/admin8800/xiaomi/releases/tag/mi8e-unlocker
 
 1.  **准备阶段：** 手机端开启“开发者选项” -> **USB 调试** 与 **OEM 解锁**，退出小米账号与谷歌账号，并确认已关闭设备查找
 2.  **启动脚本：** 在 Windows 电脑解压本工具包，双击运行目录下的 `8e-unlock.bat'
