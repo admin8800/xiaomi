@@ -1,4 +1,4 @@
-# xiaomi-8G3
+## xiaomi-8gen3
 <details>
   <summary>点击展开/收起</summary>
   
@@ -50,7 +50,7 @@
 ---
 ---
 
-# xiaomi-8E
+## xiaomi-8E
 
 <details>
 <summary>点击展开/收起</summary>
